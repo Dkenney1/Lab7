@@ -33,6 +33,7 @@ public class MorseDecoder {
     private static final int BIN_SIZE = 100;
 
     /**
+     * I will edit this class
      * Compute power measurements for fixed-size bins of WAV samples.
      * <p>
      * We have started this function for you. You should finish it.
